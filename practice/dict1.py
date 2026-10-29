@@ -1,0 +1,2 @@
+abc = {}
+print(type(abc))
